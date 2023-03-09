@@ -42,6 +42,9 @@ form button:hover {
   justify-content: center;
   align-items: center;
 }
+.tdl-container {
+  background-color: red;
+}
 
 .todo-list {
   min-width: 30%;
@@ -79,6 +82,7 @@ form button:hover {
 }
 .todo-item {
   padding: 0rem 0.5rem;
+  list-style: none;
 }
 
 .fa-trash,
